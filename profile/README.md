@@ -17,4 +17,4 @@ This is the C2 I've been working on for the past few years, all stored in one ne
 ### Global 
 * [Documentation](https://github.com/AzathothC2/documentation) (Private) Documentation for the entire project
 * [Testing Utilities](https://github.com/AzathothC2/testing-utilities) (Private) Testing utilities for the entire project
-
+* [Core](https://github.com/AzathothC2/azathoth-core) Crate for basic structs and types
