@@ -15,6 +15,5 @@ This is the C2 I've been working on for the past few years, all stored in one ne
 * [Azathoth C2 Clients Source code](https://github.com/AzathothC2/azathoth-clients-src) (Private) Source code for the available C2 clients
 
 ### Global 
-* [Documentation](https://github.com/AzathothC2/documentation) (Private) Documentation for the entire project
-* [Testing Utilities](https://github.com/AzathothC2/testing-utilities) (Private) Testing utilities for the entire project
 * [Core](https://github.com/AzathothC2/azathoth-core) Crate for basic structs and types
+* [Utils](https://github.com/AzathothC2/azathoth-utils) Utility crate
