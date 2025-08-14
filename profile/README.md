@@ -17,3 +17,4 @@ This is the C2 I've been working on for the past few years, all stored in one ne
 ### Global 
 * [Core](https://github.com/AzathothC2/azathoth-core) Crate for basic structs and types
 * [Utils](https://github.com/AzathothC2/azathoth-utils) Utility crate
+* [Dynamic loader](https://github.com/AzathothC2/azathoth_libload) Dynamic library loader
