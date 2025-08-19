@@ -3,7 +3,7 @@
 This is the C2 I've been working on for the past few years, all stored in one neat org so i don't get it confused with other projects.
 
 ## Project Structure
-**There is no guarantee that I'll ever turn these repositories public.**
+
 ### Beacon
 * [Beacon Transport Source code](https://github.com/AzathothC2/beacon-transports-src) (Private) Source code for the beacon transport libraries
 * [Beacon Core Source code](https://github.com/AzathothC2/beacon-core-src) (Private) Source code for the core beacon library
@@ -18,3 +18,4 @@ This is the C2 I've been working on for the past few years, all stored in one ne
 * [Core](https://github.com/AzathothC2/azathoth-core) Crate for basic structs and types
 * [Utils](https://github.com/AzathothC2/azathoth-utils) Utility crate
 * [Dynamic loader](https://github.com/AzathothC2/azathoth_libload) Dynamic library loader
+* [Allocator](https://github.com/AzathothC2/azathoth_allocator) Project allocator
