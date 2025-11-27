@@ -1,6 +1,9 @@
 # Azathoth C2 project
 
-This is the C2 I've been working on for the past few years, all stored in one neat org so i don't get it confused with other projects.
+![Azathoth C2](azathoth_480x480.png)
+> Ty [@otterpwn](https://github.com/otterpwn) for the logo!
+
+This is the C2 I've been working on for the past few years, all stored in one neat Github organization so i don't get it confused with other projects.
 
 ## Project Structure
 
